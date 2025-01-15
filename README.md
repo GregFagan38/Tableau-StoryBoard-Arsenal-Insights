@@ -25,21 +25,21 @@ The goal of this analysis is to provide actionable insights for Arsenal's manage
   - The team's win percentage shows fluctuations at home and away venues.
   - Predictions for the 2024 season highlight potential performance challenges.
   - Venue-specific inconsistencies need to be addressed to achieve long-term dominance.
-- **Actionable Steps**: Implement strategic interventions to stabilize performance, particularly in away games.
+
 
 ### 3. **Offensive Performance Analysis**
 - **Summary**: Arsenal's offensive capabilities are dissected to highlight areas of concern.
 - **Insights**:
   - The average goals scored per match have declined in recent away games.
   - Goal conversion rates are significantly lower during away matches compared to home matches.
-- **Actionable Steps**: Develop strategies to enhance offensive plays, particularly in away settings.
+  
 
 ### 4. **Defensive Performance Analysis**
 - **Summary**: Defensive performance is evaluated to understand weaknesses.
 - **Insights**:
   - Arsenal allows more goals on average in away matches.
   - Goal prevention rates are lower in away games, signaling defensive vulnerabilities.
-- **Actionable Steps**: Strengthen defensive strategies and mitigate risks during away games.
+
 
 ### 5. **Fouls and Performance Correlation**
 - **Summary**: Correlation between fouls, cards, and match outcomes is examined.
@@ -47,7 +47,7 @@ The goal of this analysis is to provide actionable insights for Arsenal's manage
   - Increased fouls in away games correlate with a lower win rate.
   - Away games see a higher number of yellow and red cards, contributing to reduced performance.
   - Charts provide a visual representation of win rates, fouls, and disciplinary actions by venue.
-- **Actionable Steps**: Focus on improving discipline and reducing foul rates during away matches to enhance team performance.
+
 
 ## Methodology
 ### Data Sources
@@ -69,10 +69,5 @@ Based on the findings, the following recommendations are proposed for Arsenal:
 - Tableau visualizations provide an interactive view of the analysis and forecasts.
 - Access the full visualization package at: [Tableau Public Profile – Arsenal Analysis](https://publictableau.convapp/profile/gregoryfagan/viz/BAIS3140FINAL).
 
-## Future Work
-- Incorporate additional factors such as weather, referee bias, and player fatigue into the analysis.
-- Perform year-over-year comparisons with other clubs to refine insights.
-- Explore the financial impact of improved performance metrics on revenue.
-
 ## Contact
-For inquiries or further details, please contact Gregory Fagan at [email@example.com].
+For inquiries or further details, please contact Gregory Fagan at [gregory-fagan@uiowa.edu].
