@@ -63,9 +63,5 @@ The analysis used match data, team statistics, and historical performance trends
 - **Correlation Analysis**: Explored relationships between fouls, cards, and match outcomes.
 - **Predictive Modeling**: Used historical data to forecast potential performance for the upcoming 2024 season.
 
-## Visualizations and Resources
-- Tableau visualizations provide an interactive view of the analysis and forecasts.
-- Access the full visualization package at: [Tableau Public Profile – Arsenal Analysis](https://publictableau.convapp/profile/gregoryfagan/viz/BAIS3140FINAL).
-
 ## Contact
 For inquiries or further details, please contact Gregory Fagan at [gregory-fagan@uiowa.edu].
