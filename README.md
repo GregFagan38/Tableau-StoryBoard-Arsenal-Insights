@@ -64,4 +64,4 @@ The analysis used match data, team statistics, and historical performance trends
 - **Predictive Modeling**: Used historical data to forecast potential performance for the upcoming 2024 season.
 
 ## Contact
-For inquiries or further details, please contact Gregory Fagan at [gregory-fagan@uiowa.edu].
+For inquiries or further details, please contact me at [gregory-fagan@uiowa.edu].
