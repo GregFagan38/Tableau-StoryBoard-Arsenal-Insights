@@ -3,6 +3,11 @@
 ## Project Overview
 This project examines Arsenal Football Club's performance in the English Premier League, with a focus on identifying factors contributing to inconsistent outcomes at home and away venues. By analyzing offensive and defensive statistics, foul patterns, and win percentages, the report highlights areas where Arsenal can improve to maintain dominance and increase competitiveness.
 
+## Visualization
+- Tableau visualizations provide an interactive view of the analysis and forecasts.
+- Access the full visualization package at: [Tableau Public Profile – Arsenal Analysis](https://public.tableau.com/app/profile/gregory.fagan/viz/BAIS3140_FINAL_COMPLETE_17340540547940/EPL?publish=yes).
+
+
 ## Objective
 The goal of this analysis is to provide actionable insights for Arsenal's management and coaching staff to:
 - Enhance performance consistency across venues.
