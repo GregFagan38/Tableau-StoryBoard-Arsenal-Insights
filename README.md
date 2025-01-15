@@ -15,7 +15,7 @@ The goal of this analysis is to provide actionable insights for Arsenal's manage
 - Improve chances of winning trophies and prize money.
 - Increase the team's prominence and boost overall revenue.
 
-## Key Insights
+## Insights
 
 ### 1. **Total Wins Analysis**
 - **Summary**: Arsenal's total wins are evaluated alongside other leading teams in the league.
