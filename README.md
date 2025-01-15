@@ -51,19 +51,12 @@ The goal of this analysis is to provide actionable insights for Arsenal's manage
 
 ## Methodology
 ### Data Sources
-The analysis used match data, team statistics, and historical performance trends from the English Premier League. Visualizations were created using Tableau, enabling clear insights and predictive trends.
+The analysis used match data, team statistics, and historical performance trends from Kaggle. Visualizations were created using Tableau, enabling clear insights and predictive trends.
 
 ### Analytical Approach
 - **Trend Analysis**: Studied Arsenal’s performance trends over time, focusing on venue-specific data.
 - **Correlation Analysis**: Explored relationships between fouls, cards, and match outcomes.
 - **Predictive Modeling**: Used historical data to forecast potential performance for the upcoming 2024 season.
-
-## Recommendations
-Based on the findings, the following recommendations are proposed for Arsenal:
-1. **Improve Consistency**: Focus on addressing venue-specific inconsistencies, particularly in away games.
-2. **Enhance Offense**: Develop targeted strategies to increase goal conversion rates and offensive consistency.
-3. **Strengthen Defense**: Reinforce defensive tactics to reduce goals allowed, especially in away games.
-4. **Discipline Training**: Implement measures to reduce fouls and improve player discipline during matches.
 
 ## Visualizations and Resources
 - Tableau visualizations provide an interactive view of the analysis and forecasts.
