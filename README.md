@@ -5,7 +5,7 @@ This project examines Arsenal Football Club's performance in the English Premier
 
 ## Visualization
 - Tableau visualizations provide an interactive view of the analysis and forecasts.
-- Access the full visualization package at: [Tableau Public Profile – Arsenal Analysis](https://public.tableau.com/app/profile/gregory.fagan/viz/BAIS3140_FINAL_COMPLETE_17340540547940/EPL?publish=yes).
+- **Access the full visualization package at:** [Tableau Public Profile – Arsenal Analysis](https://public.tableau.com/app/profile/gregory.fagan/viz/BAIS3140_FINAL_COMPLETE_17340540547940/EPL?publish=yes).
 
 
 ## Objective
