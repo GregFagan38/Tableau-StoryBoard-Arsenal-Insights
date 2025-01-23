@@ -1,5 +1,7 @@
 # Arsenal Performance Analysis: English Premier League
 
+## Contributors: Greg Fagan & Natalie Brown 
+
 ## Project Overview
 This project examines Arsenal Football Club's performance in the English Premier League, with a focus on identifying factors contributing to inconsistent outcomes at home and away venues. By analyzing offensive and defensive statistics, foul patterns, and win percentages, the report highlights areas where Arsenal can improve to maintain dominance and increase competitiveness.
 
